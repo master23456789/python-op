@@ -1,0 +1,5 @@
+str = input('Enter the string: ')
+print('The fourth element is',str[3])
+print('The sixth element is',str[5])
+print('The twelth element is',str[11])
+print('The eighteenth element is',str[17])
